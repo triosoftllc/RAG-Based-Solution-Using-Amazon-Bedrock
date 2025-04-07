@@ -1,4 +1,4 @@
-<h3>RAG-Based Solution Using Amazon Bedrock</h3>
+<h3>RAG-Based Solution Using Amazon Bedrock- dev</h3>
 
 <p>This guide provides step-by-step instructions to build a Retrieval-Augmented Generation (RAG) system using Amazon Bedrock, OpenSearch, and AWS Lambda.</p>
 
